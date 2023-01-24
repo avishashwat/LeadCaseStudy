@@ -1,5 +1,4 @@
-# LeadCaseStudy
-` 			`**Lead Scoring Case Study Summary** 
+#        		**Lead Scoring Case Study** 
 
 **Problem Statement:** 
 
